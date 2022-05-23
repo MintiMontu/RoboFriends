@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboFriends/static/css/main.bd1db1e8.css",
+    "main.js": "/RoboFriends/static/js/main.939d0f6a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RoboFriends/static/js/787.28cb0dcd.chunk.js",
+    "static/media/montserrat-v24-latin-regular.woff": "/RoboFriends/static/media/montserrat-v24-latin-regular.4523d055ce95b0cf0233.woff",
+    "index.html": "/RoboFriends/index.html",
+    "main.bd1db1e8.css.map": "/RoboFriends/static/css/main.bd1db1e8.css.map",
+    "main.939d0f6a.js.map": "/RoboFriends/static/js/main.939d0f6a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RoboFriends/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd1db1e8.css",
+    "static/js/main.939d0f6a.js"
+  ]
+}
